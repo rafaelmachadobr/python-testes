@@ -1,6 +1,3 @@
-from pip import main
-
-
 def soma(x, y):
     """Soma x e y
 
